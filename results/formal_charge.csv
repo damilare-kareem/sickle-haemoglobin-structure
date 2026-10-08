@@ -1,0 +1,3 @@
+structure,alpha_chain,alpha_charge,beta_chain,beta_charge,tetramer_charge
+2HHB,A,2,B,-1,2
+2HBS,A,2,B,0,4

@@ -1,0 +1,7 @@
+structure,chain,residue,neighbours,hydrophobic,pct_hydrophobic,from_other_chain,other_chain_partners
+2HHB,B,GLU,5,0,0,0,-
+2HHB,D,GLU,5,0,0,0,-
+2HBS,B,VAL,5,0,0,0,-
+2HBS,D,VAL,6,1,17,0,-
+2HBS,F,VAL,6,1,17,0,-
+2HBS,H,VAL,14,5,36,8,"B:ASP73, B:THR84, B:ALA70, B:PHE85"

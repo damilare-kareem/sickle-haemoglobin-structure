@@ -1,0 +1,14 @@
+beta-globin residues compared,146
+sequence differences,1
+position,6
+HbA residue 6,GLU
+HbS residue 6,VAL
+tetramer formal charge HbA,2
+tetramer formal charge HbS,4
+"Val6 exposure, free (%)",59.6
+"Val6 exposure, docked (%)",9.6
+Glu6 exposure HbA (%),53.0
+pocket residues contacted,"ALA70, ASP73, LEU88, PHE85, THR84"
+closest contact (A),3.1
+intermolecular atom pairs < 5 A,23
+donor -> acceptor pairs found,"['H'] -> ['B'] (deposited), plus lattice-translated pairs"

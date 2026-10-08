@@ -1,0 +1,2 @@
+beta-globin differences: [(6, 'E', 'V')]
+alpha identical: True
